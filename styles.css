@@ -1,0 +1,22 @@
+.col {
+    background-color: yellow;
+}
+.tiny {
+    color: blue;
+}
+.space {
+    padding-bottom: 25px;
+}
+.spacing {
+    padding-bottom: 47px;
+}
+.padDown {
+    padding-bottom: 40px;
+}
+.txt {
+    padding-top: 20px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.title {
+    font-family: 'Shippori Mincho', serif;
+}
